@@ -1,0 +1,29 @@
+{
+  "keranjang": [
+    {
+      "id": 5,
+      "nama": "Xiaomi Mi LED TV 4A V52R 32",
+      "harga": 8000000,
+      "stok": 5,
+      "qty": 1
+    },
+    {
+      "id": 1,
+      "nama": "Polytron 55 CINEMAX LED 4K UHD TV PLD-55UT9",
+      "harga": 8299000,
+      "stok": 5,
+      "qty": 1
+    },
+    {
+      "id": 6,
+      "nama": "SONY KD-55X7500F UHD 4K Smart Android ",
+      "harga": 13000000,
+      "stok": 8,
+      "qty": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
